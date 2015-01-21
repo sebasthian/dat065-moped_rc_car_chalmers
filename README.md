@@ -1,4 +1,4 @@
-#DAT065 Project - "Radio Controlled Car (MOPED)"
+###DAT065 Project - "Radio Controlled Car (MOPED)"
 
 Code for the DAT065 Project course at Chalmers University, spring term 2015.
 
